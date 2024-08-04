@@ -8,7 +8,7 @@
    header,
    footer {
        width: 100%;
-       height: 120px;
+       height: 160px;
        background-color: #3498db;
        color: white;
        font-family: Courier New, monospace;
@@ -17,6 +17,11 @@
    h1,
    h2 {
     text-align: center;
+    font-family: Courier New, monospace;
+   }
+   h3 {
+    text-align: center;
+    font-size: medium;
    }
    img {
     display: block;
@@ -39,7 +44,7 @@
     padding: 35px;
     border: 5px solid rgb(0, 0, 0);
     box-shadow: 5px 10px #DAF7A6;
-    border-radius: 25% 10%;
+    border-radius: 25% 5%;
     border-style: dotted;
     background-color: #ffffff;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Helvetica, sans-serif;
